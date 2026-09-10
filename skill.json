@@ -1,0 +1,17 @@
+{
+  "name": "genpark-annoy-random-projection-forest-skill",
+  "version": "1.0.0",
+  "description": "Approximate Nearest Neighbors random projection forest (Annoy style) recursively partitioning space via random hyperplanes.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "annoy",
+    "random-projection",
+    "approximate-nearest-neighbors",
+    "hyperplanes",
+    "vector-search"
+  ],
+  "dependencies": []
+}
